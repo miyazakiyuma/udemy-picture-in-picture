@@ -1,0 +1,5 @@
+＃udemy-picture-in-picture
+
+Udemyの動画コントロールにPicture in Pictureボタンを追加するGoogle拡張機能です。
+
+汎用的なPicture in Picture機能と違い、Udemyのコース内の動画の切り替えを自動的に行い、また課題やテキストのみで動画の無いコンテンツをスキップして動画再生だけを続けてくれます。

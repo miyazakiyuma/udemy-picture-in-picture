@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Udemy Picture-in-Picture"
+  },
+  "appShortName": {
+    "message": "Udemy PiP"
+  },
+  "appDescription": {
+    "message": "Udemyで使えるピクチャインピクチャ拡張です"
+  }
+}
