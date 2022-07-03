@@ -28,6 +28,14 @@ function waitingVideoElement() {
                 if (goToNext.id !== "go-to-next-item") {
                     clearInterval(fetchControl);
                     resolve(goToNext);
+                    return;
+                }
+                // 評価をお願いしますボタンが出ている
+                const rating = document.querySelector('[data-purpose="dont-ask-button"]');
+                if(rating) {
+                    clearInterval(fetchControl);
+                    resolve(goToNext);
+                    return;
                 }
             }
         }, 2000);
