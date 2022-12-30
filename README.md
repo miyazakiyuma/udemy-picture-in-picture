@@ -1,4 +1,4 @@
-＃udemy-picture-in-picture
+# udemy-picture-in-picture
 
 Udemyの動画コントロールにPicture in Pictureボタンを追加するGoogle拡張機能です。
 
